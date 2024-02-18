@@ -9,7 +9,8 @@ Since 2013, the Citi Bike program has implemented a robust infrastructure for co
     * JC-202207-citibike-tripdata - CSV of July 2022 bike trip data in Jersey City.
     * JC-202307-citibike-tripdata - CSV of July 2023 bike trip data in Jersey City.
     * combined_citibike_tripdata - CSV of combined files for upload into Tableau.
-* CitiBike - Tableau Workbook file
+    * pierre-jarry-unsplash_bikes - jpg picture for Tableau story.
+* CitiBike - Tableau Workbook file.
 
 # References and Resources
 * Citi Bike Data Website - https://citibikenyc.com/system-data
