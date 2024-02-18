@@ -19,3 +19,7 @@ Since 2013, the Citi Bike program has implemented a robust infrastructure for co
 * Citi Bike Data Website - https://citibikenyc.com/system-data
 * ChatGPT - https://chat.openai.com
 * Photo reference - Pierre Jarry on Unsplash 
+
+# Collaborators
+* Tia Scott
+* Haylee McLean
