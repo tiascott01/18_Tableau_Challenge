@@ -30,8 +30,8 @@ Further analysis of daily rides unveils a steady cadence in member rides through
 
 
 <p align="center">
-<img src="https://github.com/tiascott01/18_Tableau_Challenge/blob/main/Assets/weekly.png" width="550"> 
-<img src="https://github.com/tiascott01/18_Tableau_Challenge/blob/main/Assets/daily.png" width="550">
+<img src="https://github.com/tiascott01/18_Tableau_Challenge/blob/main/Assets/weekly.png" width="650"> 
+<img src="https://github.com/tiascott01/18_Tableau_Challenge/blob/main/Assets/daily.png" width="650">
 </p>
 
 
@@ -45,7 +45,8 @@ A comprehensive analysis of rides over a 24-hour period highlights a continuous 
 
 
 <p align="center">
-<img src="https://github.com/tiascott01/18_Tableau_Challenge/blob/main/Assets/yearly_count.png" width="325" height="200">
+<img src="https://github.com/tiascott01/18_Tableau_Challenge/blob/main/Assets/weekday.png" width="650">
+<img src="https://github.com/tiascott01/18_Tableau_Challenge/blob/main/Assets/hour.png" width="650">
 </p>
 
 
