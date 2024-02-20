@@ -66,11 +66,16 @@ Analysis:
 
 Analyzing the average trip durations reveals a marked distinction between members and casual riders. Members exhibit a succinct average trip duration of approximately 10 minutes, while casual riders tend to spend a more extended period, averaging around 20-25 minutes. Notably, in 2022, both member and casual riders experienced longer average trip durations compared to 2023. The most notable reduction occurred among casual riders in 2023, witnessing a decline by approximately 6 minutes from 26 minutes to 19 minutes.
 
+
+<p align="center">
+<img src="https://github.com/tiascott01/18_Tableau_Challenge/blob/main/Assets/duration.png" width="650">
+</p>
+
+
 Contrastingly, the average distance per trip remains relatively consistent for both members and casual riders, hovering around 0.75 miles, a trend maintained from 2022 to 2023. It is crucial to note that this consistent average does not imply exclusivity to short-distance trips, as the data reveals instances of rides covering distances as extensive as 12.7 miles. This diversity in trip lengths underscores the varied preferences and purposes underlying the bike rides taken by both members and casual riders within the observed periods.  
 
 
 <p align="center">
-<img src="https://github.com/tiascott01/18_Tableau_Challenge/blob/main/Assets/duration.png" width="650">
 <img src="https://github.com/tiascott01/18_Tableau_Challenge/blob/main/Assets/distance.png" width="650">
 </p>
 
