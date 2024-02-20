@@ -143,6 +143,7 @@ Viewing the map detailing user access to bike stations reveals a discernible spa
     * combined_citibike_tripdata - CSV of combined files for upload into Tableau.
     * pierre-jarry-unsplash_bikes - jpg picture for Tableau story.
 * CitiBike - Tableau Workbook file.
+* Assets Folder - Images for the ReadMe workbook.
 
 # References and Resources
 * Citi Bike Data Website - https://citibikenyc.com/system-data
