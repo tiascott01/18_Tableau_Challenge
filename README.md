@@ -16,7 +16,7 @@ Comparing the month of July between 2022 and 2023, discernible trends emerge, re
 
 
 <p align="center">
-<img src="https://github.com/tiascott01/18_Tableau_Challenge/blob/main/Assets/yearly_count.png" width="325" height="200">
+<img src="https://github.com/tiascott01/18_Tableau_Challenge/blob/main/Assets/yearly_count.png" width="650">
 </p>
 
 
@@ -30,7 +30,8 @@ Further analysis of daily rides unveils a steady cadence in member rides through
 
 
 <p align="center">
-<img src="https://github.com/tiascott01/18_Tableau_Challenge/blob/main/Assets/yearly_count.png" width="325" height="200">
+<img src="https://github.com/tiascott01/18_Tableau_Challenge/blob/main/Assets/weekly.png" width="550"> 
+<img src="https://github.com/tiascott01/18_Tableau_Challenge/blob/main/Assets/daily.png" width="550">
 </p>
 
 
