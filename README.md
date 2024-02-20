@@ -26,11 +26,16 @@ Analysis:
 
 Upon scrutinizing the frequency of casual rides on a weekly basis throughout the month of July in both 2022 and 2023, there is a noteworthy increase in activity during the week of the Fourth of July. This is then followed by a plateau, and subsequently, a decline during the final week of the month in both years. A parallel trend is observed in the case of members, albeit with nuanced differences. Notably, there is a more gradual ascent during the second week, a marginal dip, and then a resurgence in the third week. An intriguing observation is the consistent shape of the graphs for each year, with 2023 exhibiting a greater proportion of member riders and a reduced number of casual riders.
 
-Further analysis of daily rides unveils a steady cadence in member rides throughout both years, with a notable increase in member rides during 2023. In contrast, the patterns for casual riders exhibit pronounced fluctuations from day to day.
-
 
 <p align="center">
 <img src="https://github.com/tiascott01/18_Tableau_Challenge/blob/main/Assets/weekly.png" width="650"> 
+</p>
+
+
+Further analysis of daily rides unveils a steady cadence in member rides throughout both years, with a notable increase in member rides during 2023. In contrast, the patterns for casual riders exhibit pronounced fluctuations from day to day.
+
+
+<p align="center"> 
 <img src="https://github.com/tiascott01/18_Tableau_Challenge/blob/main/Assets/daily.png" width="650">
 </p>
 
@@ -41,11 +46,16 @@ Analysis:
 
 Examining the total number of rides taken by day of the week reveals an anticipated surge in ridership over the weekend days—Friday, Saturday, and Sunday—in 2022. However, in a surprising deviation from this pattern, 2023 sees an increase in ridership on Mondays and Saturdays. Notably, the spike on Mondays is primarily attributed to member riders, emphasizing a distinctive shift in their behavior. While members maintain a mostly consistent ride frequency on any given day, casual riders conform to the expected trend, with a surge over the weekend.
 
+
+<p align="center">
+<img src="https://github.com/tiascott01/18_Tableau_Challenge/blob/main/Assets/weekday.png" width="650">
+</p>
+
+
 A comprehensive analysis of rides over a 24-hour period highlights a continuous flow of activity, with no instance of ridership reaching zero. Nevertheless, the early morning hours from midnight to 6 am exhibit a reduced level of activity compared to the remaining hours of the day. Member rides experience a pronounced spike during the periods of 6-8 am and 4-8 pm, aligning with commuter and post-work activities. A modest increase is observed around noon, indicative of a potential lunchtime rush. In contrast, casual riders display a more steadfast incline in rides throughout the day, reaching a peak around 6 pm, underscoring their consistent engagement across various hours.
 
 
 <p align="center">
-<img src="https://github.com/tiascott01/18_Tableau_Challenge/blob/main/Assets/weekday.png" width="650">
 <img src="https://github.com/tiascott01/18_Tableau_Challenge/blob/main/Assets/hour.png" width="650">
 </p>
 
