@@ -60,7 +60,8 @@ Contrastingly, the average distance per trip remains relatively consistent for b
 
 
 <p align="center">
-<img src="https://github.com/tiascott01/18_Tableau_Challenge/blob/main/Assets/yearly_count.png" width="325" height="200">
+<img src="https://github.com/tiascott01/18_Tableau_Challenge/blob/main/Assets/duration.png" width="650">
+<img src="https://github.com/tiascott01/18_Tableau_Challenge/blob/main/Assets/distance.png" width="650">
 </p>
 
 
@@ -74,7 +75,7 @@ In contrast, casual riders favor South Waterfront Walkway for initiating and con
 
 
 <p align="center">
-<img src="https://github.com/tiascott01/18_Tableau_Challenge/blob/main/Assets/yearly_count.png" width="325" height="200">
+<img src="https://github.com/tiascott01/18_Tableau_Challenge/blob/main/Assets/starting_ending.png" width="650">
 </p>
 
 <b>6. Where are the top 10 starting stations?</b>
@@ -87,7 +88,7 @@ The sustained popularity of these top stations suggests the likelihood of multip
 
 
 <p align="center">
-<img src="https://github.com/tiascott01/18_Tableau_Challenge/blob/main/Assets/yearly_count.png" width="325" height="200">
+<img src="https://github.com/tiascott01/18_Tableau_Challenge/blob/main/Assets/starting_map.png" width="650">
 </p>
 
 
@@ -101,7 +102,7 @@ The sustained popularity of these top stations suggests the likelihood of multip
 
 
 <p align="center">
-<img src="https://github.com/tiascott01/18_Tableau_Challenge/blob/main/Assets/yearly_count.png" width="325" height="200">
+<img src="https://github.com/tiascott01/18_Tableau_Challenge/blob/main/Assets/ending_map.png" width="650">
 </p>
 
 
@@ -115,7 +116,7 @@ Viewing the map detailing user access to bike stations reveals a discernible spa
 
 
 <p align="center">
-<img src="https://github.com/tiascott01/18_Tableau_Challenge/blob/main/Assets/yearly_count.png" width="325" height="200">
+<img src="https://github.com/tiascott01/18_Tableau_Challenge/blob/main/Assets/change_map.png" width="650">
 </p>
 
 
