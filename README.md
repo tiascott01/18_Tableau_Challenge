@@ -90,7 +90,7 @@ In contrast, casual riders favor South Waterfront Walkway for initiating and con
 
 
 <p align="center">
-<img src="https://github.com/tiascott01/18_Tableau_Challenge/blob/main/Assets/starting_ending.png" width="650">
+<img src="https://github.com/tiascott01/18_Tableau_Challenge/blob/main/Assets/starting_ending.png" width="450">
 </p>
 
 <b>6. Where are the top 10 starting stations?</b>
@@ -103,7 +103,7 @@ The sustained popularity of these top stations suggests the likelihood of multip
 
 
 <p align="center">
-<img src="https://github.com/tiascott01/18_Tableau_Challenge/blob/main/Assets/starting_map.png" width="650">
+<img src="https://github.com/tiascott01/18_Tableau_Challenge/blob/main/Assets/starting_map.png" width="450">
 </p>
 
 
