@@ -117,7 +117,7 @@ The sustained popularity of these top stations suggests the likelihood of multip
 
 
 <p align="center">
-<img src="https://github.com/tiascott01/18_Tableau_Challenge/blob/main/Assets/ending_map.png" width="650">
+<img src="https://github.com/tiascott01/18_Tableau_Challenge/blob/main/Assets/ending_map.png" width="450">
 </p>
 
 
