@@ -8,7 +8,8 @@ View the analysis:
 
 
 # Analysis
-1. What were the most popular stations between 2022 v. 2023?
+<b>1. What were the most popular stations between 2022 v. 2023?</b>
+
 Analysis:
 Comparing the month of July between 2022 and 2023, discernible trends emerge, revealing station activity that underscores a surge in select locations during 2023, while the majority experienced a reduction in usage. There was a notable increase in the overall number of stations during the latter period. However, a singular station was inactive in 2023 as opposed to its operational status in 2022. The data suggests a greater prevalence of casual riders in 2022, contrasting with a discernible uptick in membership utilization during 2023.
 
